@@ -1,1 +1,3 @@
-# AI_Book
+# AI_NoteBook
+
+My artificial intelligence notes
