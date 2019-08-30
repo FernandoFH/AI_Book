@@ -7,4 +7,5 @@ My artificial intelligence notes
 - Example:
 ![Regresion Lineal](https://github.com/FernandoFH/AI_NoteBook/blob/master/RegresionLineal.JPG)
 
-
+#### Ataques adversarios
+- IA NOTEBOOK #2 | Ataques adversarios, cómo romper una RED NEURONAL
