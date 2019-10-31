@@ -1,7 +1,5 @@
-IA Notebooks [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
-
+#### IA Notebooks [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
 ---- 
-
 #### AI NoteBook
 My artificial intelligence notes
 
