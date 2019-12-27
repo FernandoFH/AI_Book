@@ -1,6 +1,6 @@
 #### IA NoteBook [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
 ---- 
-My artificial intelligence notes
+#### My artificial intelligence notes
 
 #### Regresion linela
 - IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios
