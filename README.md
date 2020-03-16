@@ -1,11 +1,10 @@
 ### IA NoteBook [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
 ---- 
-#### My artificial intelligence notes
-
 #### Regresion linela
 - IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios
 - Formula Minimizar el error cuadratico medio (MCO)
 - Example:
+
 ![Regresion Lineal](https://github.com/FernandoFH/AI_NoteBook/blob/master/RegresionLineal.JPG)
 
 #### Ataques adversarios
