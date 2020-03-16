@@ -1,4 +1,4 @@
-#### IA NoteBook [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
+### IA NoteBook [YouTube](https://www.youtube.com/playlist?list=PL-Ogd76BhmcCO4VeOlIH93BMT5A_kKAXp)
 ---- 
 #### My artificial intelligence notes
 
